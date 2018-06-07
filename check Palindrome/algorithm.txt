@@ -1,0 +1,7 @@
+S1: isPalindrome(str)
+S2:     Find length of str. Let length be n.
+S2:     Initialize low and high indexes as 0 and n-1 respectively.
+S3:     Do following while low index ‘l’ is smaller than high index ‘h’.
+S4:         If str[l] is not same as str[h], then return false.
+S5:         Increment l and decrement h, i.e., do l++ and h–.
+S6:     If we reach here, it means we didn’t find a mis
